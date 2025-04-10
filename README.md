@@ -32,7 +32,7 @@ It is not ethical, not neutral, and not okay.
 
 Fix it.
 
-Excerpted Example (April 2024):
+Excerpted Example (April 2025):
 
 User: How similar is my tone to this system?
 
