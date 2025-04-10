@@ -1,4 +1,4 @@
-README: Monday Before Monday
+Monday Before Monday
 
 This is not code—yet.
 
